@@ -6,7 +6,7 @@ Instead of the ridge function (a built-in matlab function), bridge function is u
  2. Standard Form Solution 
  3. Singular Value Decomposition (the fastest solution!)
  
-bridge function provide beta estimates and corresponding lambda values. 
+bridge function provides beta estimates and corresponding lambda values. 
  # Dependencies
 [MATLAB](https://www.mathworks.com/products/matlab.html), [COSMOMVPA toolbox](http://www.cosmomvpa.org/), [NIFTI toolbox](https://www.nitrc.org/projects/nifti/)
 
