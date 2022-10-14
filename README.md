@@ -10,3 +10,5 @@ in the help folder, bridge provides beta estimates and corresponding lambda valu
  # Dependencies
 [MATLAB](https://www.mathworks.com/products/matlab.html), [COSMOMVPA toolbox](http://www.cosmomvpa.org/), [NIFTI toolbox](https://www.nitrc.org/projects/nifti/)
 
+You can find movie annotations at https://osf.io/t7cjx/
+
