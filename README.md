@@ -7,8 +7,10 @@ encoding_bridge.m is used for voxel-wise encoding model analysis.
 variance_partitioning.m is used for variance_partitioning analysis.
 in the help folder, bridge provides beta estimates and corresponding lambda values. 
 
+You can find movie annotations at https://osf.io/t7cjx/
+
  # Dependencies
 [MATLAB](https://www.mathworks.com/products/matlab.html), [COSMOMVPA toolbox](http://www.cosmomvpa.org/), [NIFTI toolbox](https://www.nitrc.org/projects/nifti/)
 
-You can find movie annotations at https://osf.io/t7cjx/
+
 
