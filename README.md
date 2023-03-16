@@ -5,6 +5,7 @@ Instead of the ridge function (a built-in matlab function), bridge function is u
  
 encoding_bridge.m is used for voxel-wise encoding model analysis.
 variance_partitioning.m is used for variance_partitioning analysis.
+prefer_map.m is used for preference mapping.
 in the help folder, bridge provides beta estimates and corresponding lambda values. 
 
 You can find movie annotations at https://osf.io/t7cjx/
