@@ -12,7 +12,7 @@ for numsub=1:size(group_weights,2)
 end
 [idxs,group_intersect_cell]=cosmo_mask_dim_intersect(group_weights); % remove un-shared voxels across subj
 nsubj=numel(group_intersect_cell);
-for subject_i=1:nsubj %tedious job to do.. we need to put chunks and target info in "Searchlight_sociality_intersect_cell"
+for subject_i=1:nsubj %tedious job to do.. we need to put chunks and target info
     stacked_group=group_intersect_cell{subject_i};
     stacked_group.samples=group_intersect_cell{subject_i}.samples;
     group_intersect{subject_i}=stacked_group;
